@@ -13,7 +13,7 @@ displays the current Driver and Constructor Championship standings.
 
 ## Run it locally
 
-git clone https://github.com/AlexKotkin/f1-dashboard.git
+git clone https://github.com/AlexKotkin/F1-Dashboard-with-pit-stop-visuals.git
 cd f1-dashboard
 npm install
 npm run dev
